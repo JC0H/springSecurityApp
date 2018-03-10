@@ -7,7 +7,7 @@
         </encoder>
     </appender>
 
-    <logger name="net.workshop.springsecurityapp">
+    <logger name="net.proselyte.springsecurityapp">
         <level value="debug"/>
     </logger>
 
